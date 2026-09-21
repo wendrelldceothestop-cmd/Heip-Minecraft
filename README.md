@@ -14,7 +14,7 @@ x | [v1.1.0] Minecraft-Mirella.itre.Apk
 x | [v1.0.1] Minecraft Dx
 x | [v1.0.12] Minecraft Android
   | [v2.8.6] Minecraft Pro
-x | [v1.0.2] Minecraft XV
+x | [v1.0.2] Minecraft X
 x | [v1.2.2] Minecraft V
 x | [v1.1.1] Minecraft I
 foi marcada como funciona o email
